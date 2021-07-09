@@ -1,7 +1,7 @@
-### THIS IS A TINDER CLONE
+# THIS IS A TINDER CLONE
 
-# packages used
+### packages used
 
-npx create-react-app/
-npm install @material-ui/core/
-npm install @material-ui/icons/
+npx create-react-app\
+npm install @material-ui/core\
+npm install @material-ui/icons\
